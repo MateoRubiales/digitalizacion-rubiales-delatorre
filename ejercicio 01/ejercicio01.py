@@ -5,3 +5,5 @@ if p  in t:
     print("está en el índice:", t.index(p))
 else:
     print("ese dia no existe")
+
+    #Trabajo comprobado a la perfeccion, funciona correctamente.
